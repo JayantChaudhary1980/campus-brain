@@ -14,5 +14,4 @@ Static prototype (HTML/CSS/JS) for the Campus Brain hackathon challenge.
 - Notifications (toasts) and simple stats chart
 
 ## Author
-Jayant Chaudhary 
-Contact: <jayant.23bce10085@vitbhopal.ac.in>
+<Jayant Chaudhary> Contact: <jayant.23bce10085@vitbhopal.ac.in>
