@@ -1,10 +1,6 @@
 # Campus Brain — Prototype
 Static prototype (HTML/CSS/JS) for the Campus Brain hackathon challenge.
 
-## 🌐 Live Demo
-[![View Website](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://jayantchaudhary1980.github.io/campus-brain/)
-
-
 ## Run locally
 1. Open in VS Code
 2. Use Live Server or:
@@ -18,4 +14,5 @@ Static prototype (HTML/CSS/JS) for the Campus Brain hackathon challenge.
 - Notifications (toasts) and simple stats chart
 
 ## Author
-<Jayant Chaudhary> — Contact: <jayant.23bce10085@vitbhopal.ac.in>
+Jayant Chaudhary 
+Contact: <jayant.23bce10085@vitbhopal.ac.in>
