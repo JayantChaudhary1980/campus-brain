@@ -1,6 +1,9 @@
 # Campus Brain — Prototype
 Static prototype (HTML/CSS/JS) for the Campus Brain hackathon challenge.
 
+## Live Demo
+https://jayantchaudhary1980.github.io/campus-brain/
+
 ## Run locally
 1. Open in VS Code
 2. Use Live Server or:
